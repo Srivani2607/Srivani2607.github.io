@@ -1,0 +1,87 @@
+.bold{
+  font-size: 250%;
+  font-weight: bold;
+  margin: 18% auto 0;
+  text-align: center;
+}
+.navbar{
+  background-color: #B9F3E4;
+}
+.middle-section{
+  background-color: #E5FDD1;
+}
+.center{
+  text-align: center;
+  margin-top: 1%;
+}
+.btn{
+  margin-left: 45%;
+  margin-top: 1%;
+}
+.services{
+  text-align: center;
+  font-size: 150%;
+  font-weight: bold;
+  margin-top: 50px;
+}
+.hr{
+
+width: 20%;
+height:3px;
+  color: #DC0000;
+  background-color: #DC0000;
+  margin-left: 40%;
+}
+.row{
+  margin: 10% 12%;
+}
+.col-md-3:hover{
+  background-color: #EB455F;
+  color: white;
+}
+.features{
+  font-size: 150%;
+  font-weight: bold;
+  margin-left: 10%;
+}
+.hr-2{
+  width: 8%;
+  height:3px;
+    color: #DC0000;
+    background-color: #DC0000;
+    margin-left: 11%;
+}
+.list{
+  margin-left: 12%;
+  list-style-type: square;
+  line-height: 2;
+}
+.right{
+float: right;
+margin-right: 5%;
+}
+.touch{
+  text-align: center;
+  font-size: 200%;
+  font-weight: bold;
+  margin-top: 200px;
+}
+.hr-3{
+  width: 8%;
+  height:3px;
+    color: #DC0000;
+    background-color: #DC0000;
+    margin-left: 45.5%;
+}
+.form{
+  line-height: 1.5;
+  margin-left: 5%;
+}
+.fa-solid{
+  color: #EB455F;
+  font-size: 130%;
+}
+.inline{
+  display: inline;
+  margin-left: 5px;
+}
